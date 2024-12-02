@@ -1,0 +1,39 @@
+[
+    {
+        "latitude": 8.365867, 
+        "longitude": 124.875466,
+        "message": "Mangima River",
+        "imageUrl": "assets/water.png",
+        "description": "Natural Water source."
+    },
+    {
+        "latitude":8.464896,
+        "longitude": 125.159426,
+        "message": "Pulangi River ",
+        "imageUrl": "assets/pulangi.jpg",
+        "description": "Natural water source."
+    },
+    {
+        "latitude":  8.554728,
+        "longitude":  124.747538,
+        "message": "Tagoloan River ",
+        "imageUrl": "assets/tagolaon.webp",
+        "description": "Natural water source."
+    },
+    {
+        "latitude":  7.74574,
+        "longitude":  124.90555,
+        "message": "Muleta River ",
+        "imageUrl": "assets/muleta.jpg",
+        "description": "Natural water source."
+    },
+    {
+        "latitude":  8.37592,
+        "longitude":  124.68863,
+        "message": "Bunawan River ",
+        "imageUrl": "assets/bunawan.jpg",
+        "description": "Natural water source."
+    }
+
+
+]
